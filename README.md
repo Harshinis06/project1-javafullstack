@@ -1,1 +1,1 @@
-# project1-frontend
+# project1-foodApp-javafullstack
